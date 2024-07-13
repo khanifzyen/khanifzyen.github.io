@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://khanifzyen.com/blog</id>
+    <title>KhanifZyen Blog</title>
+    <updated>2024-07-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://khanifzyen.com/blog"/>
+    <subtitle>KhanifZyen Blog</subtitle>
+    <icon>https://khanifzyen.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blog Pertama!]]></title>
+        <id>https://khanifzyen.com/blog/my-first-blog</id>
+        <link href="https://khanifzyen.com/blog/my-first-blog"/>
+        <updated>2024-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hari pertama menggunakan docusaurus. Kesimpulannya sangat user friendly, materi kuliah yang sebelumnya sudah dibuat dari markdown terus langsung taruh di github. Kenapa ga dipakai dari dulu ya? Ini nanti juga diplublish di github pages. Sementara membiasakan dulu untuk menulis.]]></summary>
+        <content type="html"><![CDATA[<p>Hari pertama menggunakan docusaurus. Kesimpulannya sangat user friendly, materi kuliah yang sebelumnya sudah dibuat dari markdown terus langsung taruh di github. Kenapa ga dipakai dari dulu ya? Ini nanti juga diplublish di github pages. Sementara membiasakan dulu untuk menulis.</p>]]></content>
+        <author>
+            <name>Akhmad Khanif Zyen</name>
+            <uri>https://id.linkedin.com/in/khanifzyen</uri>
+        </author>
+        <category label="Unisnu" term="Unisnu"/>
+    </entry>
+</feed>
