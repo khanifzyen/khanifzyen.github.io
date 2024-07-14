@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_website=self.webpackChunkmy_docusaurus_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Blog Pertama!","permalink":"/blog/2024/07/13/blog-pertama","unlisted":false}]}')}}]);
