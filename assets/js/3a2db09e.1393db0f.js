@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_website=self.webpackChunkmy_docusaurus_website||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"Unisnu","permalink":"/blog/tags/unisnu","description":"Unisnu related","count":1}]}')}}]);
