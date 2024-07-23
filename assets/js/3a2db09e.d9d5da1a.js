@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docusaurus_website=self.webpackChunkmy_docusaurus_website||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"yii2","permalink":"/blog/tags/yii2","description":"Yii2 related","count":1},{"label":"Unisnu","permalink":"/blog/tags/unisnu","description":"Unisnu related","count":1}]}')}}]);
